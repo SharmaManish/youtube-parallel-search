@@ -1,0 +1,11 @@
+#newsearchdiv ul:hover {
+overflow-y: auto;
+}
+
+#newsearchdiv ul {
+margin: 5px 0;
+clear: both;
+overflow: hidden;
+max-height: 306px;
+position: relative;
+}
